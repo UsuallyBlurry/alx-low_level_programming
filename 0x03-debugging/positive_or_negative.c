@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * positive_or_negative - tells sign of a number i
